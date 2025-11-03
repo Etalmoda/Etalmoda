@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## My Projects:
-Outfit Project (WIP): https://github.com/Etalmoda/OutfitProject
+Outfit Project (WIP): https://github.com/Etalmoda/OutfitProject <br>
 School Management System: https://github.com/Etalmoda/SchoolManagementSystem <br>
 Campus Navigation: https://github.com/Etalmoda/CampusNavigationWebApplication <br>
 Calculator: https://github.com/Etalmoda/Calculator <br>
